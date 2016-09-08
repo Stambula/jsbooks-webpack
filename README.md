@@ -16,6 +16,9 @@ Stay what the step will be
     $ npm install sass-loader node-sass webpack --save-dev
     $ npm install autoprefixer-loader --save-dev
     $ npm install css-loader --save-dev
+    $ npm install webpack-dev-server --save-dev
+    $ webpack-dev-server
+    open http://localhost:8080/webpack-dev-server/
 
 Название файла  | Содержание файла
 ----------------|----------------------
